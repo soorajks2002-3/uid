@@ -39,5 +39,5 @@ if st.button('Submit'):
         with col[i]:
             st.subheader(name)
             st.image(image)
-
+st.text(" ")
 st.warning("MOVIES CONSIDERED HERE ARE RELEASED BEFORE 2015")
