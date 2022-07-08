@@ -40,4 +40,7 @@ if st.button('Submit'):
             st.subheader(name)
             st.image(image)
 st.text(" ")
+st.text(" ")
+st.text(" ")
+st.text(" ")
 st.warning("MOVIES CONSIDERED HERE ARE RELEASED BEFORE 2015")
